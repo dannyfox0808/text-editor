@@ -1,2 +1,1 @@
-# text-editor
-This is a application that works similar to notepad.
+This is an application that works similar to notepad.
